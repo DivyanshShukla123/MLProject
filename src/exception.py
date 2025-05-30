@@ -28,5 +28,5 @@ class CustomException(Exception):
 #     try:
 #         a=1/0
 #     except Exception as e:
-#         logging.info("Divide by zero")
+#         logging.info("Divide By zero")
 #         raise CustomException(e,sys)
