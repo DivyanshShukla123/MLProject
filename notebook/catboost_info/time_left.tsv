@@ -1,6 +1,7 @@
 iter	Passed	Remaining
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 0	156	156295
 1	157	78782
 2	159	52900
@@ -405,6 +406,8 @@ iter	Passed	Remaining
 =======
 =======
 >>>>>>> f32e08c (EDA and Problem statement)
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306
 0	155	155119
 1	157	78649
 2	159	53128
@@ -807,8 +810,11 @@ iter	Passed	Remaining
 399	488	732
 400	489	730
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> dd845e8 (EDA and Problem Statement)
 =======
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306
 =======
 0	156	156295
 1	157	78782
@@ -1212,11 +1218,15 @@ iter	Passed	Remaining
 399	488	733
 400	489	731
 >>>>>>> 4a698e6 (EDA and Problem statement)
+<<<<<<< HEAD
 >>>>>>> f32e08c (EDA and Problem statement)
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306
 401	490	729
 402	490	727
 403	491	725
 404	492	723
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 405	493	721
@@ -1817,6 +1827,8 @@ iter	Passed	Remaining
 =======
 =======
 >>>>>>> f32e08c (EDA and Problem statement)
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306
 405	493	722
 406	494	720
 407	494	718
@@ -2413,8 +2425,11 @@ iter	Passed	Remaining
 998	1178	1
 999	1180	0
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> dd845e8 (EDA and Problem Statement)
 =======
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306
 =======
 405	493	721
 406	493	719
@@ -3012,4 +3027,7 @@ iter	Passed	Remaining
 998	1006	1
 999	1008	0
 >>>>>>> 4a698e6 (EDA and Problem statement)
+<<<<<<< HEAD
 >>>>>>> f32e08c (EDA and Problem statement)
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306

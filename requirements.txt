@@ -6,7 +6,10 @@ catboost
 xgboost
 scikit-learn
 <<<<<<< HEAD
+<<<<<<< HEAD
 dill
 =======
 >>>>>>> f32e08c (EDA and Problem statement)
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306
 #-e .

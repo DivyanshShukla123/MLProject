@@ -3,6 +3,7 @@
 "iterations":[
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"learn":[14.59871775],"iteration":0,"passed_time":0.1564519332,"remaining_time":156.2954813},
 {"learn":[14.22518863],"iteration":1,"passed_time":0.1578800326,"remaining_time":78.78213628},
 {"learn":[13.8866124],"iteration":2,"passed_time":0.1591778706,"remaining_time":52.90011233},
@@ -1006,6 +1007,8 @@
 =======
 =======
 >>>>>>> f32e08c (EDA and Problem statement)
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306
 {"learn":[14.59871775],"iteration":0,"passed_time":0.1552743105,"remaining_time":155.1190362},
 {"learn":[14.22518863],"iteration":1,"passed_time":0.1576146743,"remaining_time":78.64972247},
 {"learn":[13.8866124],"iteration":2,"passed_time":0.1598636603,"remaining_time":53.1280231},
@@ -2007,8 +2010,11 @@
 {"learn":[3.04430671],"iteration":998,"passed_time":1.178998699,"remaining_time":0.001180178878},
 {"learn":[3.042664195],"iteration":999,"passed_time":1.180250117,"remaining_time":0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> dd845e8 (EDA and Problem Statement)
 =======
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306
 =======
 {"learn":[14.59871775],"iteration":0,"passed_time":0.1564519332,"remaining_time":156.2954813},
 {"learn":[14.22518863],"iteration":1,"passed_time":0.1578800326,"remaining_time":78.78213628},
@@ -3011,5 +3017,8 @@
 {"learn":[3.04430671],"iteration":998,"passed_time":1.006463133,"remaining_time":0.001007470604},
 {"learn":[3.042664195],"iteration":999,"passed_time":1.008991341,"remaining_time":0}
 >>>>>>> 4a698e6 (EDA and Problem statement)
+<<<<<<< HEAD
 >>>>>>> f32e08c (EDA and Problem statement)
+=======
+>>>>>>> 4b2c64cf39a702409bd38c3f6536cc2a48649306
 ]}
