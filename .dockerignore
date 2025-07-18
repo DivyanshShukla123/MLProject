@@ -1,0 +1,17 @@
+# .dockerignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+*.db
+*.log
+*.zip
+*.tar
+*.gz
+*.csv
+*.json
+datasets/
+checkpoints/
+notebooks/
